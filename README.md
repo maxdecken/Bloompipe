@@ -1,6 +1,8 @@
 # Bloompipe
 Bloompipe is a unique website that allows users to upload their favorite music and receive a personalized music video in return. The platform utilizes advanced audio analysis and neural network technologies to create a truly bespoke experience for each user.
 
+https://user-images.githubusercontent.com/68195151/236633220-3dd06f41-bfb3-4d1a-9bdf-984b5eaad24d.mp4
+
 ## The Project
 Bloompipe is a project that was developed during my bachelor studies at HTW-Berlin, it was done during my project semester together with 7 other students, under the supervision of Prof. Dr. Kai-Uwe Barthel and Konstantin Schall
 
